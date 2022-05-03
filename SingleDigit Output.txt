@@ -1,0 +1,9 @@
+vaibhav@LAPTOP-EQB2SIP9 MINGW32 /e/BridgeLabz/Day40-CaseStatements (main)
+$ Node SingleDigit.js
+Number : 2
+In words-Two
+
+vaibhav@LAPTOP-EQB2SIP9 MINGW32 /e/BridgeLabz/Day40-CaseStatements (main)
+$ Node SingleDigit.js
+Number : 1
+In words-One
